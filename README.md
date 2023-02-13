@@ -15,7 +15,6 @@ The website is minimized as much as possible to avoid errors when entering data.
 
 ## 📝 Table of Contents
 - [Logo](#logo)
-- [Screenshots](#screenshots)
 - [Technology Stack](#tech_stack)
 - [Open-Source program](#open_source_programs)
 - [How to Contribute](#How-to-Contribute)
@@ -23,16 +22,6 @@ The website is minimized as much as possible to avoid errors when entering data.
 
 ## Logo <a name = "logo"></a>
 <img height =200px, src="https://user-images.githubusercontent.com/62802231/194802891-66d7c782-9765-419d-964b-b6bf6323b95a.gif"/>
-
-# SCREENSHOTS <a name="screenshots"></a>
-
-![updatedMamamia1](https://user-images.githubusercontent.com/89804314/194807939-f82645f0-acab-441f-8c69-ef15eaee3c7b.jpg)
-
-![updatedMamamia2](https://user-images.githubusercontent.com/89804314/194807992-18e7d1bd-cbd0-46c5-b163-54548f6c98bf.jpg)
-
-![updatedMamamia3](https://user-images.githubusercontent.com/89804314/194808047-36643fe9-ab51-43be-bc10-0079934eb661.jpg)
-
-![updatedMamamia4](https://user-images.githubusercontent.com/89804314/194808259-bdb3e8a9-8d3c-4bfd-a8e4-e971653836a3.jpg)
 
 ## Tech Stack <a name = "tech_stack"></a>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/>
